@@ -39,4 +39,4 @@ Important: always reset the counter on success by calling _reset_attempts_ immed
 # Tests and monitoring
 - Load tests to validate behavior under concurrency.
 - Alerts for spikes in account locks by user or origin.
-- Structured logs with request_id to trace the full flow.
+- Structured logs with _request_id_ to trace the full flow.
