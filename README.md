@@ -21,4 +21,4 @@ I have experience writing content using simplified American English and always f
 [Troubleshooting articles]: <https://github.com/andre-sato/tw-portfolio/tree/main/Troubleshooting%20articles>
 [FAQs]: <https://github.com/andre-sato/tw-portfolio/tree/main/FAQs>
 [Playbooks]: <>
-[API docs]: <https://github.com/andre-sato/tw-portfolio/tree/main/API_docs>
+[API docs]: <https://github.com/andre-sato/tw-portfolio/tree/main/API_Docs>
