@@ -5,9 +5,9 @@
 ---
 
 ## Overview
-The PayVault Payments API allows platforms to initiate, track, and manage money movement programmatically. All requests are made over HTTPS and return standard JSON responses. Authentication is performed via Bearer tokens issued through the PayVault dashboard.
+The PayVault Payments API allows platforms to initiate, track, and manage money movement programmatically. All requests are made over HTTPS and return standard JSON responses. Authentication is performed through Bearer tokens issued through the PayVault dashboard.
 
-This document covers the core payment initiation endpoint: `POST /v2/payments`.
+This guideline covers the core payment initiation endpoint: `POST /v2/payments`.
 
 ---
 
@@ -102,4 +102,3 @@ Use test tokens like:
 
 - tok_visa_success  
 - tok_declined  
-
