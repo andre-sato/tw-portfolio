@@ -293,7 +293,3 @@ This playbook ensures:
 - Reliable failover mechanisms
 - SRE-aligned operations
 - Scalable and observable infrastructure
-
----
-
-**End of SRE Playbook**
