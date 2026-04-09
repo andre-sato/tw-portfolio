@@ -1,5 +1,5 @@
 
-# Failover & High Availability Monitoring Playbook  
+# How to Monitor Failover & High Availability
 **Google SRE-Aligned | AWS + Kubernetes + PostgreSQL + Redis Stack**
 
 ---
